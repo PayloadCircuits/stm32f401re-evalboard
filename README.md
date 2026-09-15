@@ -33,6 +33,9 @@ Designed entirely in [KiCad](https://www.kicad.org/) 9.
 # PCB Layout
 https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20184711.png
 
+# Gerber
+https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/GERBER.zip
+
 # Render Images
 - https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20185029.png
 - https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20185117.png
