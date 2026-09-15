@@ -27,23 +27,23 @@ SWD header instead.
 Designed entirely in [KiCad](https://www.kicad.org/) 9.
 
 # Schematic
-https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20185406.png
-https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/schematic.pdf
+- https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20185406.png
+- https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/schematic.pdf
 
 # PCB Layout
 https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20184711.png
 
 # Render Images
-https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20185029.png
-https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20185117.png
-https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20185238.png
+- https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20185029.png
+- https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20185117.png
+- https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-03%20185238.png
 
 # BOM with estimated component cost
 https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/BOM%20estimate.pdf
 
 # ERC and DRC results
-https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-15%20185338.png
-https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-15%20185429.png
+- https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-15%20185338.png
+- https://github.com/PayloadCircuits/stm32f401re-evalboard/blob/main/Screenshot%202026-09-15%20185429.png
 
 # Status
 Entered in the Mixed Traces PCB Design Competition — progress checkpoint
